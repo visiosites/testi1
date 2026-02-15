@@ -1,4 +1,3 @@
-=== main.js ===
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu toggle
     const mobileToggle = document.querySelector('.mobile-toggle');
